@@ -28,9 +28,9 @@ Apaixonado por tecnologia, desenvolvimento web e soluções digitais.
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira como desenvolvedor.
 
-Tenho interesse em desenvolvimento web, criação de sistemas, banco de dados e soluções digitais para empresas.
+Hoje eu prático desenvolvimento web, criação de sistemas, banco de dados e soluções digitais para empresas.
 
-Atualmente estou estudando e praticando:
+Atualmente estou estudando e trabalhando:
 
 - Desenvolvimento Front-end
 - Desenvolvimento Back-end
