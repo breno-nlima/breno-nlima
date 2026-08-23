@@ -2,7 +2,7 @@
 
 # 👨‍💻 Breno Lima
 
-### Desenvolvedor de Sistemas em Formação
+### Desenvolvedor de Sistemas
 
 Apaixonado por tecnologia, desenvolvimento web e soluções digitais.
 
