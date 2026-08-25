@@ -4,10 +4,10 @@
 
 ### Desenvolvedor de Sistemas
 
-Apaixonado por tecnologia, desenvolvimento web e soluções digitais.
+Apaixonado por tecnologia, desenvolvimento e soluções digitais.
 
 📍 Recife - PE, Brasil  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Desenvolvedor de Sistemas | IA Generativa  
 🚀 Criando sites, sistemas web e projetos com foco em soluções reais
 
 </div>
@@ -26,11 +26,11 @@ Apaixonado por tecnologia, desenvolvimento web e soluções digitais.
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira como desenvolvedor.
+Sou Desenvolvedor Jr e estou construindo minha carreira como desenvolvedor.
 
-Hoje eu prático desenvolvimento web, criação de sistemas, banco de dados e soluções digitais para empresas.
+Hoje eu atuo em desenvolvendo web, criação de sistemas, banco de dados e soluções digitais para empresas.
 
-Atualmente estou estudando e trabalhando:
+Atualmente estou trabalhando em:
 
 - Desenvolvimento Front-end
 - Desenvolvimento Back-end
