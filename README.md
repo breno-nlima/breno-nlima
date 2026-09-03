@@ -28,7 +28,7 @@ Apaixonado por tecnologia, desenvolvimento e soluções digitais.
 
 Sou Desenvolvedor Jr e estou construindo minha carreira como desenvolvedor.
 
-Hoje eu atuo em desenvolvendo web, criação de sistemas, banco de dados e soluções digitais para empresas.
+Hoje eu atuo em desenvolvimento web, criação de sistemas, banco de dados e soluções digitais para empresas.
 
 Atualmente estou trabalhando em:
 
